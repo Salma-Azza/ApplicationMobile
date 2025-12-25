@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
       body: SafeArea(
         child: Center(
           child: Text(
-            "Welcome To Bilal Zouine App",
+            "Salma Azza",
             style: AppTextStyle().bodyLarge,
           ),
         ),
